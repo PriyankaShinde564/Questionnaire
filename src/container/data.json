@@ -1,0 +1,277 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following sports is not part of the triathlon?",
+      "correct_answer": "Horse-Riding",
+      "incorrect_answers": ["Cycling", "Swimming", "Running"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the most common surname Wales?",
+      "correct_answer": "Jones",
+      "incorrect_answers": ["Williams", "Davies", "Evans"]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
+      "correct_answer": "314.15 Inches",
+      "incorrect_answers": ["380.1215 Inches", "3141.5 Inches", "1256.6 Inches"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What French sculptor designed the Statue of Liberty? ",
+      "correct_answer": "Fr&eacute;d&eacute;ric Auguste Bartholdi",
+      "incorrect_answers": [
+        "Jean-L&eacute;on G&eacute;r&ocirc;me",
+        "Auguste Rodin",
+        "Henri Matisse"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Donald J. Trump&#039;s Middle Name is...",
+      "correct_answer": "John",
+      "incorrect_answers": ["Jeff", "Jerald", "Jason"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+      "correct_answer": "Guy Fawkes",
+      "incorrect_answers": [
+        "Robert Catesby",
+        "Francis Tresham",
+        "Everard Digby"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Second Boer War in 1899 was fought where?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["Argentina", "Nepal", "Bulgaria"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Rocket League is a game which features..",
+      "correct_answer": "Cars",
+      "incorrect_answers": ["Helicopters", "Planes", "Submarines"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year was the game Dishonored released?",
+      "correct_answer": "2012",
+      "incorrect_answers": ["2011", "2008", "2013"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What tiny principality lies between Spain and France?",
+      "correct_answer": "Andorra",
+      "incorrect_answers": ["Liechtenstein", "Monaco", "San Marino"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where is the world&#039;s oldest still operational space launch facility located?",
+      "correct_answer": "Kazakhstan",
+      "incorrect_answers": ["Russia", "Iran", "United States"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What do the letters of the fast food chain KFC stand for?",
+      "correct_answer": "Kentucky Fried Chicken",
+      "incorrect_answers": [
+        "Kentucky Fresh Cheese",
+        "Kibbled Freaky Cow",
+        "Kiwi Food Cut"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the total length of the Titanic?",
+      "correct_answer": "882 ft | 268.8 m",
+      "incorrect_answers": [
+        "759 ft | 231.3 m",
+        "1042 ft | 317.6 m",
+        "825 ft | 251.5 m"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+      "correct_answer": "8",
+      "incorrect_answers": ["6", "10", "12"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+      "correct_answer": "Lung Cancer",
+      "incorrect_answers": [
+        "Prostate Cancer",
+        "Brain Cancer",
+        "Testicular Cancer"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+      "correct_answer": "Play",
+      "incorrect_answers": ["Everything Is Wrong", "Moby", "18"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+      "correct_answer": "Caucasus",
+      "incorrect_answers": ["Stalingrad", "Crimea", "Voronezh"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the colossal titan in &quot;Attack On Titan&quot;?",
+      "correct_answer": "Bertolt Hoover",
+      "incorrect_answers": ["Reiner", "Eren", "Sasha"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Haikyuu!!, who is not a member of Karasuno VBC?",
+      "correct_answer": "Shigeru Yahaba",
+      "incorrect_answers": [
+        "Tadashi Yamaguchi",
+        "Hisashi Kinoshita",
+        "Kazuhito Narita"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Telltale Games&#039; &quot;The Walking Dead: Season One&quot; what is the name of Clementine&#039;s father?",
+      "correct_answer": "Ed",
+      "incorrect_answers": ["Charles", "Lee", "Walter"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which is the world&#039;s longest river?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Missouri", "Amazon", "Yangtze"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+      "correct_answer": "7.62mm",
+      "incorrect_answers": ["5.56mm", "9mm", ".300 Magnum"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who did the score to the original Blade Runner?",
+      "correct_answer": "Vangelis",
+      "incorrect_answers": ["Kitaro", "Yanni", "Enya"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+      "correct_answer": "Majora&#039;s Mask",
+      "incorrect_answers": [
+        "Ocarina of Time",
+        "Skyward Sword",
+        "Breath of the Wild"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+      "correct_answer": "Masta Killa",
+      "incorrect_answers": ["Method Man", "Inspectah Deck", "GZA"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many types of quarks are there in the standard model of physics?",
+      "correct_answer": "6",
+      "incorrect_answers": ["2", "3", "4"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Hel was the daughter of which Norse Mythological figure?",
+      "correct_answer": "Loki",
+      "incorrect_answers": ["Thor", "Odin", "Balder"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
+      "correct_answer": "Jingle &amp; Jangle",
+      "incorrect_answers": [
+        "Buddy &amp; Bobby",
+        "Holly &amp; Jolly",
+        "Snowflake &amp; Icicle"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+      "correct_answer": "Tenerife",
+      "incorrect_answers": ["Fuerteventura", "Gran Canaria", "Maui"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many sets of grandmaster witcher gear are in The Witcher 3&#039;s Blood and Wine DLC?",
+      "correct_answer": "5",
+      "incorrect_answers": ["3", "6", "4"]
+    }
+  ]
+}

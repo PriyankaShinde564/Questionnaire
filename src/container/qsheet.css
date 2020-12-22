@@ -1,0 +1,20 @@
+.header {
+  height: 150px;
+  border: 1px solid black;
+  text-align: left;
+  color: blue;
+}
+
+.sheet {
+  border: 1px solid rgb(173, 171, 171);
+  text-align: left;
+  color: rgb(81, 81, 221);
+}
+#list-Q {
+  list-style-type: none;
+}
+
+select {
+  border: blue;
+  color: rgb(81, 81, 221);
+}
